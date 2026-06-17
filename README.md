@@ -1,6 +1,6 @@
 # Hi, I'm Jay 
 
-##  Aspiring Supply Chain & Operations Analyst
+##  Aspiring operations + supply chain + manufacturing analytics
 
 I am transitioning from IT (3 years in enterprise NOC environment) into **Supply Chain Management, Operations Consulting, and Industry 4.0 analytics** through the PGPEX-LSM program at IIM Sirmaur.
 
