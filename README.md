@@ -1,4 +1,4 @@
-# Hi, I'm Jay 👋
+# Hi, I'm Jay 
 
 ##  Aspiring Supply Chain & Operations Analyst
 
