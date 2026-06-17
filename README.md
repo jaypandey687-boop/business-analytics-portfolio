@@ -7,7 +7,7 @@ I am transitioning from IT (3 years in enterprise NOC environment) into **Supply
 ---
 
 ##  Background
-- 3 years experience in IT and Operations
+- 3 years experience in IT Operations
 - Ex-Senior Systems Engineer at Cognizant
 - Strong exposure to incident management, monitoring, and SLA-based operations
 
