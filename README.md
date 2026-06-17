@@ -1,27 +1,52 @@
-# Business Analytics Portfolio
+# Hi, I'm Jay 👋
 
-Hi, I'm Jay Vardhan Pandey, a PGPM Business Analytics student.
+## 🎯 Aspiring Supply Chain & Operations Analyst
 
-This repository documents my learning journey in:
+I am transitioning from IT (3 years in enterprise NOC environment) into **Supply Chain Management, Operations Consulting, and Industry 4.0 analytics** through the PGPEX-LSM program at IIM Sirmaur.
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Data Analytics
-- Business Case Studies
+---
 
-## Projects
+## 💼 Background
+- 3 years experience in IT and Operations
+- Ex-Senior Systems Engineer at Cognizant
+- Strong exposure to incident management, monitoring, and SLA-based operations
 
-### Excel
-- Expense Tracker (Coming Soon)
-- Sales Dashboard (Coming Soon)
+---
 
-### SQL
-- SQL Practice Queries (Coming Soon)
+## 📊 Current Focus Areas
+- Supply Chain Analytics
+- SAP SCM (IBP, EWM, MM basics)
+- Operations Strategy
+- Industry 4.0 & Smart Manufacturing
+- Business Data Analytics (Excel, Power BI, SQL)
 
-### Power BI
-- HR Analytics Dashboard (Coming Soon)
+---
 
-## Goal
+## 🧠 Skills I'm Building
+- Excel (KPI dashboards, pivot tables, analysis)
+- Power BI (business dashboards)
+- SQL (data querying for analytics)
+- Supply Chain Fundamentals (inventory, forecasting, procurement)
 
-To build strong analytical skills and create projects that solve real business problems.
+---
+
+## 🚀 Career Goal
+To become a **Supply Chain Consultant / SAP SCM Consultant / Operations Strategy Analyst** working on large-scale transformation projects in global organizations.
+
+Target roles after PGPEX-LSM:
+- Supply Chain Consultant
+- SAP IBP / EWM Consultant
+- Operations Excellence Analyst
+- Digital Transformation Consultant
+
+---
+
+## 📌 Current Learning Journey
+- Supply Chain Management fundamentals
+- Demand forecasting & inventory optimization
+- Procurement analytics
+- Industry 4.0 concepts
+
+---
+
+## 📫 Let's Connect
