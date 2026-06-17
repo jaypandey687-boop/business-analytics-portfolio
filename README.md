@@ -24,7 +24,7 @@ I am transitioning from IT (3 years in enterprise NOC environment) into **Supply
 
 ##  Skills I'm Building
 - Excel (KPI dashboards, pivot tables, analysis)
-- Power BI (business dashboards)
+- Tableau (business dashboards)
 - SQL (data querying for analytics)
 - Supply Chain Fundamentals (inventory, forecasting, procurement)
 
